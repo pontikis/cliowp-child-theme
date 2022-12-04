@@ -1,0 +1,22 @@
+# Visual Studio Code workspace -------------------------------------------------
+/.vscode
+
+# Sublime Text workspace -------------------------------------------------------
+cliowp-child-theme.sublime-workspace
+
+# JetBrains PhpStorm IDE files -------------------------------------------------
+/.idea/
+
+# PHP Dependencies -------------------------------------------------------------
+/vendor/
+
+# Front end assets -------------------------------------------------------------
+/node_modules/
+
+# Gettext backup files (by Loco Translate) -------------------------------------
+*.po~
+
+# php cs fixer cache -----------------------------------------------------------
+.php_cs.cache
+.php-cs-fixer.cache
+# ------------------------------------------------------------------------------
